@@ -1,0 +1,149 @@
+Objective:-
+
+To reach the pinnacle of professional career, being in your university will help me get a
+better understanding of my subjects and have abundant opportunities to grow and explore in my
+field.
+
+PROJECTS:
+
+1.Mini Project:
+
+Smart Door Lock
+
+Title:
+Duration:
+
+January-March 2017
+
+Objective: Our
+
+project is a raspberry pie based smart lock which can be unlocked and locked
+
+using smartphone.
+
+This smart lock is secure,simple,and easy to manage your home’s lock.This lock needs no
+keys and the lock is attached inside the door and you can control it from outside the door.
+As the lock is inside the door there is no way to break the lock.If we are outside and visitors
+are waiting for us,we can connect it through smartphone and open the door.
+
+Smart door lock working algorithm
+
+:
+
+1 . In this project we have a raspberry pie board which
+
+is the core of the design interfacing the smartphone with the door lock for locking or unlocking
+
+the same .
+
+Door lock is controlled by servo motors, which is activated by the pie on receiving the
+
+•
+command from the communicating device (here smartphone).
+
+•
+
+A Wi-Fi/Bluetooth module is also provided for remotely controlling the door using an
+
+android application . 4.As per commands given in the app the door is locked/unlocked.
+
+Software used:
+Hardware used:
+
+Android studio,Java script.
+
+Raspberry pie,High torque servo motor,Led lights,Jumper
+
+wires,Solenoid,Minimum -1GB RAM,Minimum -4GB ROM.
+
+Role: I have worked on the backend programming and the connectivity of the
+the application.
+
+Raspberry pie
+
+to
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.Major Project:
+
+Title: Twitter trends manipulation analysis
+January-March 2017
+Duration:
+
+Objective: We study Twitter trending at topic level, considering topics’ popularity, coverage,
+transmission, potential coverage, and reputation. The corresponding dynamics for each factor
+above are extracted, and then Support Vector Machine (SVM) classifier is used to check how
+accurately a factor could predict trending. We further illustrate the interaction pattern between
+malicious accounts and authenticated accounts, with respect to trending.
+We present the threat of malicious manipulation of Twitter trending, given compromised and
+fake accounts in the suspect spamming infrastructure we observed. Then we demonstrate how
+compromised and fake accounts could threaten Twitter trending by simulating the manipulation
+of dynamics as compromised and fake accounts would do. Corresponding countermeasures are
+then discussed.
+
+Software used:
+
+Operating System: Windows 7, 8, 10 , Language: HTML, CSS, Servlets, IDE:
+
+Netbeans.
+
+MYSQL
+
+Database used:
+Role: I have worked on the backend programming and the connectivity of the database to the
+application.
+
+Technical Qualification:-
+
+• Languages known   :  C , C++, Java.
+
+• Databases                :   SQL.
+
+• Operating Systems  :   Windows XP, Vista, 7; Linux Platforms
+
+• Area Of Interest
+
+: Web Developer, Android Application development, Computer
+
+Networks, Operating system.
+
+CO-Curricular Activities:-
+
+•
+
+•
+
+•
+
+Certificate of participation in ENVOYAGE WORKSHOP at VNR VJIET.
+
+Certificate of appreciation from digithon (cultivating Digital Literacy) conducted by
+
+Telangana information Technology Association(TITA).
+
+Organizer for Rainbow Wakathon event held in Hyderabad.
+
+ 
+ 
+ 
+ 
+ 
+•
+
+Volunteer for THE TECH FEST-India’s largest technology and design conference.
+
+Declaration:
+
+I hereby declare that the above information furnished by me is true to the best of my
+
+Knowledge and belief.
+
+
